@@ -1,3 +1,7 @@
+# Live Demo App
+<a href="https://bmi-calculator-pink-seven.vercel.app/">https://bmi-calculator-pink-seven.vercel.app/</a>
+<hr>
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
